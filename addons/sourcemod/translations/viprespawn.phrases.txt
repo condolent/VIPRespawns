@@ -3,25 +3,29 @@
 	"All respawns used"
 	{
 		"en"	"You have used all your respawns!"
-		"se"	"Du har anv�nt upp alla dina respawns!"
+		"se"	"Du har använt upp alla dina respawns!"
+		"fr"	"Tu as utilisé tous vos respawns!"
 	}
 	
 	"Cannot respawn as spec"
 	{
 		"en"	"You cannot respawn as a spectator.."
-		"se"	"Du kan inte respawna som �sk�dare.."
+		"se"	"Du kan inte respawna som åskådare.."
+		"fr"	"Tu ne peux pas respawn en tant que spectateur!"
 	}
 	
 	"Cannot respawn alive"
 	{
 		"en"	"You cannot respawn when you're alive!"
 		"se"	"Du kan inte respawna om du lever!"
+		"fr"	"Tu ne peux pas réapparaître lorsque tu es en vie!"
 	}
 	
 	"Check respawns left"
 	{
 		"en"	"Check respawns"
 		"se"	"Kolla respawns"
+		"fr"	"Vérifier les respawns"
 	}
 	
 	"Users available respawns"
@@ -29,13 +33,15 @@
 		"#format"	"{1:N},{2:d}"
 		"en"	"{1} has {2} respawns left."
 		"se"	"{1} har {2} respawns kvar."
+		"fr"	"{1} a encore {2} respawns."
 	}
 	
 	"Respawned broadcast"
 	{
 		"#format"	"{1:N}"
 		"en"	"{1} used a Respawn!"
-		"se"	"{1} anv�nde en Respawn!"
+		"se"	"{1} använde en Respawn!"
+		"fr"	"{1} a utilisé un respawn!"
 	}
 	
 	"Respawns left"
@@ -43,19 +49,22 @@
 		"#format"	"{1:d}"
 		"en"	"You have {1} respawns left!"
 		"se"	"Du har {1} respawns kvar!"
+		"fr"	"Tu as encore {1} respawns!"
 	}
 	
 	"Vip menu"
 	{
 		"en"	"VIP Menu"
 		"se"	"VIP Meny"
+		"fr"	"Menu VIP"
 	}
 	
 	"Not enough players alive"
 	{
 		"#format"	"{1:d}"
 		"en"	"Not enough players alive. {1} players needs to be alive in order to respawn!"
-		"se"	"Det �r inte tillr�ckligt med spelare levande. Det beh�vs {1} spelare levande f�r att respawna!"
+		"se"	"Det är inte tillräckligt med spelare levande. Det behövs {1} spelare levande för att respawna!"
+		"fr"	"Pas assez de joueurs en vie. {1} joueurs doivent être en vie pour réapparaître!"
 	}
 	
 	"Respawns Left Title"
@@ -63,5 +72,6 @@
 		"#format"	"{1:d}"
 		"en"	"Respawns left: {1}"
 		"se"	"Respawns kvar: {1}"
+		"fr"	"Respawns restant: {1}"
 	}
 }
