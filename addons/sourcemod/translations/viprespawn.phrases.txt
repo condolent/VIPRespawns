@@ -5,6 +5,8 @@
 		"en"	"You have used all your respawns!"
 		"se"	"Du har använt upp alla dina respawns!"
 		"fr"	"Tu as utilisé tous vos respawns!"
+		"pt_p"	"Usaste todos os teus respawns!"
+		"pt"	"Você todos os seus respawns!"
 	}
 	
 	"Cannot respawn as spec"
@@ -12,6 +14,8 @@
 		"en"	"You cannot respawn as a spectator.."
 		"se"	"Du kan inte respawna som åskådare.."
 		"fr"	"Tu ne peux pas respawn en tant que spectateur!"
+		"pt_p"	"Não podes dar respawn enquanto és um espectador!"
+		"pt"	"Você não pode fazer respawn enquanto é um espectador!"
 	}
 	
 	"Cannot respawn alive"
@@ -19,6 +23,8 @@
 		"en"	"You cannot respawn when you're alive!"
 		"se"	"Du kan inte respawna om du lever!"
 		"fr"	"Tu ne peux pas réapparaître lorsque tu es en vie!"
+		"pt_p"	"Não podes dar respawn enquanto estiveres vivo!"
+		"pt"	"Você não pode fazer respawn enquanto estiver vivo!"
 	}
 	
 	"Check respawns left"
@@ -26,6 +32,8 @@
 		"en"	"Check respawns"
 		"se"	"Kolla respawns"
 		"fr"	"Vérifier les respawns"
+		"pt_p"	"Verificar respawns"
+		"pt"	"Verificar respawns"
 	}
 	
 	"Users available respawns"
@@ -34,6 +42,8 @@
 		"en"	"{1} has {2} respawns left."
 		"se"	"{1} har {2} respawns kvar."
 		"fr"	"{1} a encore {2} respawns."
+		"pt_p"	"{1} tem {2} respawns restantes."
+		"pt"	"{1} tem {2} respawns restantes."
 	}
 	
 	"Respawned broadcast"
@@ -42,6 +52,8 @@
 		"en"	"{1} used a Respawn!"
 		"se"	"{1} använde en Respawn!"
 		"fr"	"{1} a utilisé un respawn!"
+		"pt_p"	"{1} utilizou um Respawn!"
+		"pt"	"{1} utilizou um Respawn!"
 	}
 	
 	"Respawns left"
@@ -50,6 +62,8 @@
 		"en"	"You have {1} respawns left!"
 		"se"	"Du har {1} respawns kvar!"
 		"fr"	"Tu as encore {1} respawns!"
+		"pt_p"	"Tens {1} respawns restantes!"
+		"pt_"	"Você tem {1} respawns restantes!"
 	}
 	
 	"Vip menu"
@@ -57,6 +71,8 @@
 		"en"	"VIP Menu"
 		"se"	"VIP Meny"
 		"fr"	"Menu VIP"
+		"pt_p"	"VIP Menu"
+		"pt"	"VIP Menu"
 	}
 	
 	"Not enough players alive"
@@ -65,6 +81,8 @@
 		"en"	"Not enough players alive. {1} players needs to be alive in order to respawn!"
 		"se"	"Det är inte tillräckligt med spelare levande. Det behövs {1} spelare levande för att respawna!"
 		"fr"	"Pas assez de joueurs en vie. {1} joueurs doivent être en vie pour réapparaître!"
+		"pt_p"	"Não há jogadores suficientes vivos. São necessários {1} jogadores vivos para poder dar respawn!"
+		"pt"	"Não há jogadores suficientes vivos. São necessários {1} jogadores vivos para poder dar respawn!"
 	}
 	
 	"Respawns Left Title"
@@ -73,5 +91,7 @@
 		"en"	"Respawns left: {1}"
 		"se"	"Respawns kvar: {1}"
 		"fr"	"Respawns restant: {1}"
+		"pt_p"	"Respawns restantes: {1}"
+		"pt"	"Respawns restantes: {1}"
 	}
 }
