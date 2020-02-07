@@ -3,74 +3,75 @@
 	"All respawns used"
 	{
 		"en"	"You have used all your respawns!"
+		"pt"	"Você usou todos os seus respawns!"
 		"se"	"Du har använt upp alla dina respawns!"
 		"fr"	"Tu as utilisé tous vos respawns!"
-	}
-	
+	}	
 	"Cannot respawn as spec"
 	{
-		"en"	"You cannot respawn as a spectator.."
-		"se"	"Du kan inte respawna som åskådare.."
+		"en"	"You cannot respawn as a spectator!"
+		"pt"	"Você não pode usar respawn como spectador!"
+		"se"	"Du kan inte respawna som åskådare!"
 		"fr"	"Tu ne peux pas respawn en tant que spectateur!"
-	}
-	
+	}	
 	"Cannot respawn alive"
 	{
 		"en"	"You cannot respawn when you're alive!"
+		"pt"	"Você não pode usar respawn quando está vivo!"
 		"se"	"Du kan inte respawna om du lever!"
 		"fr"	"Tu ne peux pas réapparaître lorsque tu es en vie!"
-	}
-	
+	}	
 	"Check respawns left"
 	{
 		"en"	"Check respawns"
+		"pt"	"Verificar respawns"
 		"se"	"Kolla respawns"
 		"fr"	"Vérifier les respawns"
-	}
-	
+	}	
 	"Users available respawns"
 	{
 		"#format"	"{1:N},{2:d}"
 		"en"	"{1} has {2} respawns left."
+		"pt"	"{1} tem {2} respawns restantes."
 		"se"	"{1} har {2} respawns kvar."
 		"fr"	"{1} a encore {2} respawns."
-	}
-	
+	}	
 	"Respawned broadcast"
 	{
 		"#format"	"{1:N}"
 		"en"	"{1} used a Respawn!"
+		"pt"	"{1} usou um Respawn!"
 		"se"	"{1} använde en Respawn!"
 		"fr"	"{1} a utilisé un respawn!"
-	}
-	
+	}	
 	"Respawns left"
 	{
 		"#format"	"{1:d}"
 		"en"	"You have {1} respawns left!"
+		"pt"	"Você tem {1} respawns restantes!"
 		"se"	"Du har {1} respawns kvar!"
 		"fr"	"Tu as encore {1} respawns!"
-	}
-	
+	}	
 	"Vip menu"
 	{
 		"en"	"VIP Menu"
+		"pt"	"VIP Menu"
 		"se"	"VIP Meny"
 		"fr"	"Menu VIP"
-	}
-	
+	}	
 	"Not enough players alive"
 	{
 		"#format"	"{1:d}"
 		"en"	"Not enough players alive. {1} players needs to be alive in order to respawn!"
+		"pt"	"Sem players vivos suficientes. {1} players precisam estar vivos para usar respawn!"
 		"se"	"Det är inte tillräckligt med spelare levande. Det behövs {1} spelare levande för att respawna!"
 		"fr"	"Pas assez de joueurs en vie. {1} joueurs doivent être en vie pour réapparaître!"
-	}
-	
+	}	
 	"Respawns Left Title"
 	{
 		"#format"	"{1:d}"
 		"en"	"Respawns left: {1}"
+		"pt"	"Respawns restantes: {1}"
 		"se"	"Respawns kvar: {1}"
 		"fr"	"Respawns restant: {1}"
 	}
